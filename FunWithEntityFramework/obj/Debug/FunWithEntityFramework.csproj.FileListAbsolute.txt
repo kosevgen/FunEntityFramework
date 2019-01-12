@@ -1,0 +1,12 @@
+D:\C#\workspace\Education\FunWithEntityFramework\FunWithEntityFramework\bin\Debug\FunWithEntityFramework.exe.config
+D:\C#\workspace\Education\FunWithEntityFramework\FunWithEntityFramework\bin\Debug\FunWithEntityFramework.exe
+D:\C#\workspace\Education\FunWithEntityFramework\FunWithEntityFramework\bin\Debug\FunWithEntityFramework.pdb
+D:\C#\workspace\Education\FunWithEntityFramework\FunWithEntityFramework\bin\Debug\EntityFramework.dll
+D:\C#\workspace\Education\FunWithEntityFramework\FunWithEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\workspace\Education\FunWithEntityFramework\FunWithEntityFramework\bin\Debug\EntityFramework.xml
+D:\C#\workspace\Education\FunWithEntityFramework\FunWithEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\workspace\Education\FunWithEntityFramework\FunWithEntityFramework\obj\Debug\FunWithEntityFramework.csprojAssemblyReference.cache
+D:\C#\workspace\Education\FunWithEntityFramework\FunWithEntityFramework\obj\Debug\FunWithEntityFramework.csproj.CoreCompileInputs.cache
+D:\C#\workspace\Education\FunWithEntityFramework\FunWithEntityFramework\obj\Debug\FunWithEntityFramework.csproj.CopyComplete
+D:\C#\workspace\Education\FunWithEntityFramework\FunWithEntityFramework\obj\Debug\FunWithEntityFramework.exe
+D:\C#\workspace\Education\FunWithEntityFramework\FunWithEntityFramework\obj\Debug\FunWithEntityFramework.pdb
